@@ -18,11 +18,11 @@ currently_playing = [
     [sg.Text(background_color='black', size=(200, 0), text_color='white', font=('Tahoma', 10), key='currently_playing')]
 ]
 
-GO_BACK_IMAGE_PATH = 'Trabalho/Images/back.png'
-GO_FORWARD_IMAGE_PATH = 'Trabalho/Images/next.png'
-PLAY_SONG_IMAGE_PATH = 'Trabalho/Images/play_button.png'
-PAUSE_SONG_IMAGE_PATH = 'Trabalho/Images/pause.png'
-DEFAULT_ALBUM_COVER_IMAGE_PATH = 'Trabalho/Images/pilot.png'
+GO_BACK_IMAGE_PATH = 'Spoti-Ninho/Images/back.png'
+GO_FORWARD_IMAGE_PATH = 'Spoti-Ninho/Images/next.png'
+PLAY_SONG_IMAGE_PATH = 'Spoti-Ninho/Images/play_button.png'
+PAUSE_SONG_IMAGE_PATH = 'Spoti-Ninho/Images/pause.png'
+DEFAULT_ALBUM_COVER_IMAGE_PATH = 'Spoti-Ninho/Images/pilot.png'
 
 main = [
     [sg.Canvas(background_color='black', size=(480, 20), pad=None)],
