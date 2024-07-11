@@ -10,7 +10,7 @@ Spoti-Ninho é um projeto de interface gráfica de um player de música desenvol
 - **Pausar/Despausar**: Pause ou despause a música atual.
 - **Próxima Música**: Avance para a próxima faixa na lista de reprodução.
 - **Música Anterior**: Retorne para a faixa anterior na lista de reprodução.
-- **Exibição de Informações**: Mostra o nome da música, artista e a capa do álbum (se disponível).
+- **Exibição de Informações**: Mostra o nome da música, artista e a capa do álbum.
 
 ## Estrutura do Projeto
 
@@ -20,7 +20,7 @@ Spoti-Ninho é um projeto de interface gráfica de um player de música desenvol
 
 ## Requisitos
 
-- Python 3.7 ou superior
+- Python 3.6 ou superior
 - PySimpleGUI
 - Pygame
 
@@ -28,7 +28,7 @@ Spoti-Ninho é um projeto de interface gráfica de um player de música desenvol
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SeuUsuario/Spoti-Ninho.git
+   git clone https://github.com/PabloCarnauba/Spoti-Ninho.git
    ```
 2. **Instale as dependências:**
    ```bash
